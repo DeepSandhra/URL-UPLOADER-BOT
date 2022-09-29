@@ -2,27 +2,27 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 class Translation(object):
 
-    START_TEXT = """Hello {},
+    START_TEXT = """ʜᴇʟʟᴏ {},
 
-I Am Telegram URL Uploader Bot.
+ɪ ᴀᴍ ᴛᴇʟᴇɢʀᴀᴍ ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ.
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>ᴘʟᴇᴀꜱᴇ ꜱᴇɴᴅ ᴍᴇ ᴀɴʏ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ᴜʀʟ ʟɪɴᴋ, ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀꜱ ꜰɪʟᴇ/Video</b>
 
-<b>/help for more details...</b>"""
+<b>/help ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ...</b>"""
 
-    ABS_TEXT = " Please don't be selfish."
-    UPGRADE_TEXT = "<b> 👉 Create own Clone Bot Check Source /about</b>"
-    FORMAT_SELECTION = "Set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\n\nYou can use /deletethumbnail to delete the auto-generated thumbnail\n"
-    SET_CUSTOM_USERNAME_PASSWORD = """<b>👮‍♂ Powered By :</b> @LISA_FAN_LK"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    ABS_TEXT = " ᴘʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ʙᴇ ꜱᴇʟꜰɪꜱʜ."
+    UPGRADE_TEXT = "<b> ☠️ ᴄʀᴇᴀᴛᴇ ᴏᴡɴ ᴄʟᴏɴᴇ ʙᴏᴛ ᴄʜᴇᴄᴋ ꜱᴏᴜʀᴄᴇ /about</b>"
+    FORMAT_SELECTION = "ꜱᴇᴛ ᴄᴜꜱᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ, ꜱᴇɴᴅ ᴘʜᴏᴛᴏ ʙᴇꜰᴏʀᴇ ᴏʀ Qᴜɪᴄᴋʟʏ ᴀꜰᴛᴇʀ ᴛᴀᴘᴘɪɴɢ ᴏɴ ᴀɴʏ ᴏꜰ ᴛʜᴇ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴꜱ.\n\nʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ /deletethumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴛʜᴇ ᴀᴜᴛᴏ-ɢᴇɴᴇʀᴀᴛᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ\n"
+    SET_CUSTOM_USERNAME_PASSWORD = """<b>👮‍♂ Powered By :</b> @movi2x"""
+    NOYES_URL = "@bot ᴜʀʟ ᴅᴇᴛᴇᴄᴛᴇᴅ. ᴘʟᴇᴀꜱᴇ ᴜꜱᴇ https://shrtz.me/PtsVnf6 ᴀɴᴅ ɢᴇᴛ ᴍᴇ ᴀ ꜰᴀꜱᴛ ᴜʀʟ ꜱᴏ ᴛʜᴀᴛ ɪ ᴄᴀɴ ᴜᴘʟᴏᴀᴅ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ, ᴡɪᴛʜᴏᴜᴛ ᴍᴇ ꜱʟᴏᴡɪɴɢ ᴅᴏᴡɴ ꜰᴏʀ ᴏᴛʜᴇʀ ᴜꜱᴇʀꜱ."
     DOWNLOAD_START = "📥 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
     UPLOAD_START = "📤 𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶"
-    RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDe tected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    #AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """𝘛𝘏𝘈𝘕𝘒𝘚 𝘍𝘖𝘙 𝘜𝘚𝘐𝘕𝘎 𝘔𝘌 🥰\n\n@NT_BOT_CHANNEL"""
-    NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
+    RCHD_BOT_API_LIMIT = "ꜱɪᴢᴇ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ ᴍᴀxɪᴍᴜᴍ ᴀʟʟᴏᴡᴇᴅ ꜱɪᴢᴇ (50ᴍʙ). ɴᴇᴠᴇʀᴛʜʟᴇꜱꜱ, ᴛʀʏɪɴɢ ᴛᴏ ᴜᴘʟᴏᴀᴅ."
+    RCHD_TG_API_LIMIT = "ᴅᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} ꜱᴇᴄᴏɴᴅꜱ.\nDe tected File Size: {}\nꜱᴏʀʀʏ. ʙᴜᴛ, ɪ ᴄᴀɴɴᴏᴛ ᴜᴘʟᴏᴀᴅ ꜰɪʟᴇꜱ ɢʀᴇᴀᴛᴇʀ ᴛʜᴀɴ 2ɢʙ ᴅᴜᴇ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʟɪᴍɪᴛᴀᴛɪᴏɴꜱ."
+    #AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : 𝐊𝐡𝐮𝐬𝐡 💕\nꜰᴏʀ ᴛʜᴇ ʟɪꜱᴛ ᴏꜰ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛꜱ"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = """ᴛʜᴀɴᴋ ꜰᴏʀ ᴜꜱɪɴɢ ᴍᴇ 💗\n\n@Movies_hunt_2022"""
+    NOT_AUTH_USER_TEXT = "ᴘʟᴇᴀꜱᴇ /upgrade ʏᴏᴜʀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ."
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. ꜰʀᴇᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ᴏɴʟʏ ᴜᴘʟᴏᴀᴅ: {}\nᴘʟᴇᴀꜱᴇ /upgrade ʏᴏᴜʀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ.\nɪꜰ ʏᴏᴜ ᴛʜɪɴᴋ ᴛʜɪꜱ ɪꜱ ᴀ ʙᴜɢ, ᴘʟᴇᴀꜱᴇ ᴄᴏɴᴛᴀᴄᴛ <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✅"
     DEL_ETED_CUSTOM_THUMB_NAIL = "Delete Thumbnail ✅"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Delete Thumbnail ✅"
@@ -31,15 +31,15 @@ I Am Telegram URL Uploader Bot.
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTube</b> said: {}"
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    CURENT_ABOUT_DETAILS = """<b>🔘 My Name :</b> URL Uploader Bot
+    CURENT_ABOUT_DETAILS = """<b>🔘 ᴍʏ ɴᴀᴍᴇ :</b> ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-<b>🔘 Source :</b> <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2">Click</a>
+<b>🔘 ꜱᴏᴜʀᴄᴇ :</b> <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2">Click</a>
 
-<b>🔘 Language :</b> <a href="https://www.python.org/">Python 3.10.7</a>
+<b>🔘 ʟᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.7</a>
 
-<b>🔘 Framework :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
+<b>🔘 ꜰʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
 
-<b>🔘 Creater :</b> @LISA_FAN_LK"""
+<b>🔘 ᴄʀᴇᴀᴛᴇʀ :</b> @LISA_FAN_LK"""
 
     HELP_USER = """𒊹︎︎︎ HOW TO UPLOAD FILE OR MEDIA
     
@@ -66,21 +66,21 @@ I Am Telegram URL Uploader Bot.
 /deletethumbnail - delete your thumbnail"""
 
     INFO_TEXT = """
-🌸 First Name : <b>{}</b>
+🌸 ꜰɪʀꜱᴛ ɴᴀᴍᴇ : <b>{}</b>
 
-🌸 Second Name : <b>{}</b>
+🌸 ꜱᴇᴄᴏɴᴅ ɴᴀᴍᴇ : <b>{}</b>
 
-🌸 Username : <b>@{}</b>
+🌸 ᴜꜱᴇʀɴᴀᴍᴇ : <b>@{}</b>
 
-🌸 Id : <code>{}</code>
+🌸 ɪᴅ : <code>{}</code>
 
-🌸 Profile : <b>{}</b>
+🌸 ᴘʀᴏꜰɪʟᴇ : <b>{}</b>
 
-🌸 Dc : <b>{}</b>
+🌸 ᴅᴄ : <b>{}</b>
 
-🌸 Language : <b>{}</b>
+🌸 ʟᴀɴɢᴜᴀɢᴇ : <b>{}</b>
 
-🌸 Status : <b>{}</b>
+🌸 ꜱᴛᴀᴛᴜꜱ : <b>{}</b>
 """
      #START_BUTTONS = InlineKeyboardMarkup(
        #  [[
