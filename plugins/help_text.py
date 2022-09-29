@@ -59,11 +59,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL 📍', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('♻️ ᴄʜᴀɴɴᴇʟ ♻️', url='https://t.me/Movies_hunt_2022'),
       ],
       [
-          InlineKeyboardButton('🧑‍💻 DEVELOPER 🧑‍💻', url='https://t.me/LISA_FAN_LK'),
-          InlineKeyboardButton('🤖 SOURCE 🤖', url='https://github.com/LISA-KOREA/URL-UPLOADER-BOT'),
+          InlineKeyboardButton('👤 ᴅᴇᴠᴇʟᴏᴘᴇʀ 👤', url='https://t.me/movi2x'),
+          InlineKeyboardButton('☠️ ɢʀᴏᴜᴘ ☠️', url='https://t.me/Movies_DATABASE_2022'),
           ]
         ]
       )
