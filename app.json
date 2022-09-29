@@ -16,8 +16,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/UploadLinkToFileBot",
-  "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA",
+  "website": "https://github.com/DeepSandhra",
+  "repository": "https://github.com/DeepSandhra/URL-UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
