@@ -33,13 +33,13 @@ class Translation(object):
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     CURENT_ABOUT_DETAILS = """<b>🔘 ᴍʏ ɴᴀᴍᴇ :</b> ᴜʀʟ ᴜᴘʟᴏᴀᴅᴇʀ ʙᴏᴛ
 
-<b>🔘 ꜱᴏᴜʀᴄᴇ :</b> <a href="https://github.com/LISA-KOREA/UPLOADER-BOT-V2">Click</a>
+<b>🔘 ꜱᴏᴜʀᴄᴇ :</b> <a href="https://github.com/DeepSandhra/URL-UPLOADER-BOT">Click</a>
 
 <b>🔘 ʟᴀɴɢᴜᴀɢᴇ :</b> <a href="https://www.python.org/">Python 3.10.7</a>
 
 <b>🔘 ꜰʀᴀᴍᴇᴡᴏʀᴋ :</b> <a href="https://docs.pyrogram.org/">Pyrogram 1.4.16</a>
 
-<b>🔘 ᴄʀᴇᴀᴛᴇʀ :</b> @LISA_FAN_LK"""
+<b>🔘 ᴄʀᴇᴀᴛᴇʀ :</b> @movi2x"""
 
     HELP_USER = """𒊹︎︎︎ HOW TO UPLOAD FILE OR MEDIA
     
