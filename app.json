@@ -16,7 +16,7 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/UploadLinkToFileBot",
-  "website": "https://github.com/DeepSandhra",
+  "website": "https://github.com/DeepSandhra/URL-UPLOADER-BOT",
   "repository": "https://github.com/DeepSandhra/URL-UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
