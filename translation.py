@@ -41,29 +41,29 @@ class Translation(object):
 
 <b>🔘 ᴄʀᴇᴀᴛᴇʀ :</b> @movi2x"""
 
-    HELP_USER = """𒊹︎︎︎ HOW TO UPLOAD FILE OR MEDIA
+    HELP_USER = """𒊹︎︎︎ ʜᴏᴡ ᴛᴏ ᴜᴘʟᴏᴀᴅ ꜰɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ
     
-➪ SEND YOUR LINK FOR UPLOAD FILE OR MEDIA.
+➪ sᴇɴᴅ ʏᴏᴜʀ ʟɪɴᴋ ꜰᴏʀ ᴜᴘʟᴏᴀᴅ ꜰɪʟᴇ ᴏʀ ᴍᴇᴅɪᴀ.
 
-𒊹︎︎︎ HOW TO SET THUMBNAIL
+𒊹︎︎︎ ʜᴏᴡ ᴛᴏ sᴇᴛ ᴛʜᴜᴍʙɴᴀɪʟ
 
-➪ SEND YOUR THUMBNAIL PHOTO AND <b>ADDED ONCE TIME ONLY.</b>
+➪ sᴇɴᴅ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ ᴘʜᴏᴛᴏ ᴀɴᴅ ᴀᴅᴅᴇᴅ ᴏɴᴄᴇ ᴛɪᴍᴇ ᴏɴʟʏ.
 
-𒊹︎︎︎ HOW TO DELETING THUMBNAIL
+𒊹︎︎︎ ʜᴏᴡ ᴛᴏ ᴅᴇʟᴇᴛɪɴɢ ᴛʜᴜᴍʙɴᴀɪʟ
 
-➪ SEND /deletethumbnail TO DELETE YOUR THUMBNAIL.
+➪ sᴇɴᴅ /deletethumbnail ᴛᴏ ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ.
 
-𒊹︎︎︎ COMMENTS
+𒊹︎︎︎ ᴄᴏᴍᴍᴇɴᴛs
 
-/help - how to use this bot 
+/help - ʜᴏᴡ ᴛᴏ ᴜsᴇ ᴛʜɪs ʙᴏᴛ 
 
-/upgrade - view offers
+/upgrade - ᴠɪᴇᴡ ᴏꜰꜰᴇʀs
 
-/info - check your info 
+/info - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ɪɴꜰᴏ 
 
-/about - something about me 
+/about - sᴏᴍᴇᴛʜɪɴɢ ᴀʙᴏᴜᴛ ᴍᴇ 
 
-/deletethumbnail - delete your thumbnail"""
+/deletethumbnail - ᴅᴇʟᴇᴛᴇ ʏᴏᴜʀ ᴛʜᴜᴍʙɴᴀɪʟ """
 
     INFO_TEXT = """
 🌸 ꜰɪʀꜱᴛ ɴᴀᴍᴇ : <b>{}</b>
