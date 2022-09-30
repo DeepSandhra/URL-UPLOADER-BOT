@@ -126,7 +126,7 @@ async def ddl_call_back(bot, update):
             )
         else:
             # get the correct width, height, and duration for videos greater than 50MB
-            # ref: message from @BotSupport
+            # ref: message from @Movies_hunt_2022
             width = 0
             height = 0
             duration = 0
@@ -290,7 +290,7 @@ async def download_coroutine(bot, session, url, file_name, chat_id, message_id, 
                         (total_length - downloaded) / speed) * 1000
                     estimated_total_time = elapsed_time + time_to_completion
                     try:
-                        current_message = """**Downloading......😜**
+                        current_message = """**ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...🎯**
 
 **🔗 Uʀʟ :** `{}`
 
